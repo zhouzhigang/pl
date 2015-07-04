@@ -1,6 +1,9 @@
 # C++ Programming Language
 
 ## Reference
+
+### Books
+
 * [Programming: Principles and Practice Using C++ by Bjarne Stroustrup]()
 * [C++ Primer by Stanley B. Lippman]()
 * [The C++ Programming Language by Bjarne Stroustrup]()
@@ -14,3 +17,4 @@
 * [C++ Templates by David Vandevoorde & Nicolai M. Josuttis]()
 * [Ruminations on C++ by Andrew Koeing]()
 
+### Web Resources
